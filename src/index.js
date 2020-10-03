@@ -19,3 +19,4 @@ exports.avg = function avg (array) {
   }
   return 0;
 }
+
